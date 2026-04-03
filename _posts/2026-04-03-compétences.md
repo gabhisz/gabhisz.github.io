@@ -5,16 +5,15 @@ categories: [Portfolio]
 tags: [Compétences]
 ---
 
-## Mes compétences 
-
-***Développement***
+## Développement
 
 <u>Langages :<u>
   - C
   - C#
   - Python
   - SQL
-<ui>Réalisation d’applications avec UI :<ui>
+
+- <ui>Réalisation d’applications avec UI :<ui>
   - WPF
   - Android Studio
 
@@ -22,7 +21,7 @@ tags: [Compétences]
 
 - <ui>Gestion de bases de données (MySQL,SQLServer)<ui>
 
-***Réseau Informatique***
+# Réseau
 
 <ui>Configuration de routeurs Cisco :<ui>
     - Routage statique (IPV4 & IPV6)
