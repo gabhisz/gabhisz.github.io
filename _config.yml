@@ -16,7 +16,7 @@ timezone:
 
 title: 'Gabriel' # the main title
 
-tagline: 'Étudiant en réseau informatique et cybersécurité # it will display as the subtitle'
+tagline: 'Étudiant en réseau informatique et en cybersécurité' # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   'Portfolio des projets et travaux techniques réalisés'
