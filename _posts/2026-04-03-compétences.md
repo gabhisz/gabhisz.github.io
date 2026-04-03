@@ -23,18 +23,18 @@ tags: [Compétences]
 
 # Réseau
 
-<ui>Configuration de routeurs Cisco :<ui>
-    - Routage statique (IPV4 & IPV6)
-    - Routage dynamique (OSPF & RIP)
-    - Création de NAT et d'ACL
-    - Mise en place de Firewall ZPF
-    - Mise en place de VPN IPsec
-    - Configuration de NTP
+- <ui>Configuration de routeurs Cisco :<ui>
+  - Routage statique (IPV4 & IPV6)
+  - Routage dynamique (OSPF & RIP)
+  - Création de NAT et d'ACL
+  - Mise en place de Firewall ZPF
+  - Mise en place de VPN IPsec
+  - Configuration de NTP
 
-<ui>Configuration de switch<ui> :
+- <ui>Configuration de switch<ui> :
     - Création et gestion de VLAN
 
-Sécurisation des LAN :
+- <ui>Sécurisation des LAN :<ui>
  - Création de DMZ
  - Authentification d'accès
  - Configuration d'accès locaux et distant
@@ -49,8 +49,8 @@ Sécurisation des LAN :
 
 ***Système d’exploitation***
 
-Windows, Linux, Kali Linux
-Utilisation de Raspberry pi
+- Windows, Linux, Kali Linux
+- Utilisation de Raspberry pi
 
 ***Langues***
 Anglais niveau B1+
