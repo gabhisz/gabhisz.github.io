@@ -32,9 +32,9 @@ tags: [Compétences]
   - Configuration de NTP
 
 <u>Configuration de switch : <u>
-    - Création et gestion de VLAN
+  - Création et gestion de VLAN
 
-<ui>Sécurisation des LAN :<ui>
+<u>Sécurisation des LAN :<u>
  - Création de DMZ
  - Authentification d'accès
  - Configuration d'accès locaux et distant
