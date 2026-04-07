@@ -1,7 +1,7 @@
 ---
 title: "Mini-Projet Réseau INFRA avec supervision SysLog XML"
 image:
-  path: /assets/img/mini-projet-infra.png
+  path: /assets/mini-projet-infra.png
   alt: Schéma réseau INFRA
 date: 2026-04-01 10:00:00 +0000
 categories: [Projets, Réseau]
