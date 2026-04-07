@@ -107,3 +107,12 @@ Une expérience enrichissante tant sur le plan technique qu'humain.
 - Uwamp
 
 ## Capture d'écran des fenêtres
+
+![Fenêtre principale](/assets/mainwindow.png)
+_Aperçu de la fenêtre de choix de la photo_
+
+![Fenêtre de vote](/assets/fen_vote.png)
+_Aperçu de la fenêtre de saisie des informations_
+
+![Fenêtre des paramètres](/assets/fen_param.png)
+_Aperçu de la fenêtre de paramètrage de connexion à la BDD_
