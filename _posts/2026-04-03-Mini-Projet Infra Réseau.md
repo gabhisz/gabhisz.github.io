@@ -12,9 +12,6 @@ tags: [cisco, réseau, voip, syslog, xml, dhcp, vlan, csharp]
 
 ## Présentation du projet
 
-![Schéma réseau du projet](/assets/mini-projet-infra.png)
-_Schéma de l'infrastructure réseau INFRA_
-
 Dans le cadre de mes études en réseau informatique, j'ai participé à la mise en 
 place d'une infrastructure réseau d'entreprise complète incluant de la 
 téléphonie IP et un système de supervision des logs en temps réel.
