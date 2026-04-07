@@ -1,7 +1,8 @@
 ---
 title: "À propos"
 icon: fas fa-info-circle
-order: 4
+order: 1
+permalink: /
 ---
 
 ## Qui suis-je ?
