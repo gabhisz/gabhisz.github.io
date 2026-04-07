@@ -1,8 +1,7 @@
 ---
-title: "À propos de moi"
-date: 2026-04-07 10:00:00 +0000
-categories: [Portfolio]
-tags: [présentation]
+title: "À propos"
+icon: fas fa-info-circle
+order: 4
 ---
 
 ## Qui suis-je ?
