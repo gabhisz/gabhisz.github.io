@@ -90,3 +90,10 @@ Mon rôle dans ce projet portait sur :
 - Mise en place d'une infrastructure **VoIP** complète
 - Développement d'une application **C# / WPF** communicant sur le réseau
 - Travail en équipe sur un projet technique pluridisciplinaire
+
+---
+
+## Logiciels utilisés
+
+- Putty
+- Visual Studio 
