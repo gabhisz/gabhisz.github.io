@@ -58,4 +58,4 @@ J’apprends actuellement à utiliser le langage Rust.
 - Utilisation de Raspberry pi
 
 ***Langues***
-Anglais niveau B1+
+- Anglais niveau B1+
