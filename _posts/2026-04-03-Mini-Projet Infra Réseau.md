@@ -1,5 +1,8 @@
 ---
 title: "Mini-Projet Réseau INFRA avec supervision SysLog XML"
+image:
+  path: /assets/img/mini-projet-infra.png
+  alt: Schéma réseau INFRA
 date: 2026-04-01 10:00:00 +0000
 categories: [Projets, Réseau]
 tags: [cisco, réseau, voip, syslog, xml, dhcp, vlan, csharp]
@@ -8,6 +11,9 @@ tags: [cisco, réseau, voip, syslog, xml, dhcp, vlan, csharp]
 
 
 ## Présentation du projet
+
+![Schéma réseau du projet](/assets/mini-projet-infra.png)
+_Schéma de l'infrastructure réseau INFRA_
 
 Dans le cadre de mes études en réseau informatique, j'ai participé à la mise en 
 place d'une infrastructure réseau d'entreprise complète incluant de la 
