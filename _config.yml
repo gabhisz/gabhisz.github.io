@@ -16,7 +16,7 @@ timezone:
 
 title: Gabriel Hisz # the main title
 
-tagline: 'Étudiant en réseau informatique et en cybersécurité' # it will display as the subtitle
+tagline: 'Étudiant en système informatique et en cybersécurité' # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Portfolio des projets et travaux techniques réalisés
@@ -39,6 +39,7 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     - https://www.linkedin.com/in/gabriel-hisz-941861362
+    - https://github.com/gabhisz
 
 # Site Verification Settings
 webmaster_verifications:
