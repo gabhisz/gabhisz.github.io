@@ -101,12 +101,12 @@ professionnel. Il m'a permis de gagner en autonomie sur le développement d'appl
 C# complètes, connectées à une base de données, et conçues pour un usage réel. 
 Une expérience enrichissante tant sur le plan technique qu'humain.
 
-# Logiciels utilisés
+### Logiciels utilisés
 
 - Visual Studio
 - Uwamp
 
-## Capture d'écran des fenêtres
+# Capture d'écran des fenêtres :
 
 ![Fenêtre principale](/assets/mainwindow.png)
 _Aperçu de la fenêtre de choix de la photo_
