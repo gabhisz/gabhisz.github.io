@@ -18,4 +18,4 @@ Actuellement , je suis à la recherche d’une entreprise pour une alternance de
 Je vous invite à découvrir les différents projets que j’ai pu réaliser !
 
 
-Si vous êtes intéressé par mon profil , n'hésitez pas à me contacter via mon numéro ou bien les réseaux.
+Si vous êtes intéressés par mon profil , n'hésitez pas à me contacter via mon numéro ou bien les réseaux.
