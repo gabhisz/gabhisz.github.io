@@ -25,7 +25,7 @@ J’apprends actuellement à utiliser le langage Rust.
 
 <u>Gestion de bases de données (MySQL,SQLServer)<u>
 
-# Réseau
+## Réseau
 
 <u>Configuration de routeurs Cisco : <u>
   - Routage statique (IPV4 & IPV6)
