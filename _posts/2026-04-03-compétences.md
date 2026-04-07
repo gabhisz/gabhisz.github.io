@@ -5,6 +5,11 @@ categories: [Portfolio]
 tags: [Compétences]
 ---
 
+Au cours de mes années de formation, j’ai su développer certaines compétences dans plusieurs domaines de l’informatique, principalement en développement et en réseau. Certaines de ces compétences ont été acquises par auto-apprentissage.
+
+J’apprends actuellement à utiliser le langage Rust.
+
+
 ## Développement
 
 <u>Langages :<u>
