@@ -1,5 +1,8 @@
 ---
 title: "Projet ADN-Photo — Application de vote WPF"
+image:
+  path: /assets/projet-adn-photo.png
+  alt: Schéma du projet ADN-Photo
 date: 2026-03-31 10:00:00 +0000
 categories: [Projets, Développement]
 tags: [csharp, wpf, mysql, linq, mvvm, dotnet, bdd]
@@ -9,8 +12,7 @@ tags: [csharp, wpf, mysql, linq, mvvm, dotnet, bdd]
 
 Le projet **ADN-Photo** est un projet de fin d'année réalisé en équipe de 4 étudiants 
 dans le cadre de mon BTS CIEL option Informatique & Réseaux. Il consiste à mettre en 
-place un **système de vote numérique** pour une association de photographes amateurs 
-et professionnels.
+place un **système de vote numérique** pour une association de photographes.
 
 Chaque année, l'association organise des expositions sur 2 jours où les visiteurs votent 
 pour leur photo préférée. À l'issue de l'exposition, la photo la plus plébiscitée est 
@@ -98,3 +100,10 @@ Ce projet a été une première immersion dans des conditions proches du monde
 professionnel. Il m'a permis de gagner en autonomie sur le développement d'applications 
 C# complètes, connectées à une base de données, et conçues pour un usage réel. 
 Une expérience enrichissante tant sur le plan technique qu'humain.
+
+# Logiciels utilisés
+
+- Visual Studio
+- Uwamp
+
+## Capture d'écran des fenêtres
