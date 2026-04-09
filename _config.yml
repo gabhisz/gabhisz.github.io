@@ -38,7 +38,8 @@ social:
   email: 'gabriel.hisz@hotmail.com' # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
-    - www.linkedin.com/in/gabriel-hisz-941861362
+    - https://www.linkedin.com/in/gabriel-hisz-941861362
+    - https://github.com/gabhisz
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
